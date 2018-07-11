@@ -1,7 +1,6 @@
 public class Test2 {
 
-}
-    System.err.println("Test...");
-  }
-  
+	  public static void main(String[] args){
+		    System.err.println("Test..s.");
+		  }
 }
